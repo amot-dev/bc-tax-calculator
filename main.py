@@ -1,4 +1,4 @@
-print("Welcome to British Colombia Tax Calculator 2016!")
+print("Welcome to British Columbia Tax Calculator 2016!")
 salary = int(input("What is your salary?"))
 print("")
 print("")
